@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides an introduction to the course, course
   objectives, and information on meeting times, field trips, grading, and requirements.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
